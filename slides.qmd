@@ -15,9 +15,13 @@ format:
 
 *Brian to add content*
 
+explain bg to guide, motivations, how project came together
+
 ## About the guide
 
 *Brian to add content*
+
+give basic overview of guide and structure, hand over to andreas
 
 # Why visualise data? {background-color="#005573"}
 
@@ -230,6 +234,10 @@ g +
 
 # Contributing to the guide {background-color="#005573"}
 
+## A collaborative effort
+
+set out vision for how people can should get involved in guide - we want audience feedback and suggestions
+
 ## Quarto
 
 ::: columns
@@ -282,6 +290,8 @@ Conference session: [GitHub: Version control for research, teaching and industry
 # Your turn! {background-color="#005573"}
 
 *All to add content*
+
+Give examples of contribs so far. Open discussion for more ideas...
 
 ## Links
 
